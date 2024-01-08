@@ -1,0 +1,3 @@
+/home/sunwei/Opencv/基础函数/build/CMakeFiles/rebuild_cache.dir
+/home/sunwei/Opencv/基础函数/build/CMakeFiles/edit_cache.dir
+/home/sunwei/Opencv/基础函数/build/CMakeFiles/my_cmake_exe.dir

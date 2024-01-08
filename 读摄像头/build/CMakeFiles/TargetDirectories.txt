@@ -1,0 +1,3 @@
+/home/sunwei/Opencv/1opencv/build/CMakeFiles/rebuild_cache.dir
+/home/sunwei/Opencv/1opencv/build/CMakeFiles/edit_cache.dir
+/home/sunwei/Opencv/1opencv/build/CMakeFiles/my_cmake_exe.dir

@@ -1,0 +1,3 @@
+/home/sunwei/Opencv/绘制形状和文字/build/CMakeFiles/rebuild_cache.dir
+/home/sunwei/Opencv/绘制形状和文字/build/CMakeFiles/edit_cache.dir
+/home/sunwei/Opencv/绘制形状和文字/build/CMakeFiles/my_cmake_exe.dir
